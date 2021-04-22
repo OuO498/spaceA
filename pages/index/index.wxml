@@ -1,0 +1,39 @@
+<view class="Carousel">
+  <swiper class="banners" indicator-dots="true" autoplay="false" interval="2000" duration="500">
+    <swiper-item>
+      <image src="/images/NewYear.jpg"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/NewYear.jpg"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="/images/NewYear.jpg"></image>
+    </swiper-item>
+  </swiper>
+</view>
+<view class="other">
+  <view class="box"></view>
+  <view class="box"></view>
+  <view class="box"></view>
+  <view class="box"></view>
+</view>
+<view class="what"><text>随便写写</text></view>
+
+<view class="outer">
+  <view class="pictrue">
+    <image src="/images/NewYear.jpg"></image>
+    <text>随便写写</text>
+  </view>
+  <view class="pictrue">
+    <image src="/images/NewYear.jpg"></image>
+    <text>随便写写</text>
+  </view>
+  <view class="pictrue">
+    <image src="/images/NewYear.jpg"></image>
+    <text>随便写写</text>
+  </view>
+  <view class="pictrue">
+    <image src="/images/NewYear.jpg"></image>
+    <text>随便写写</text>
+  </view>
+</view>

@@ -1,0 +1,47 @@
+.banners {
+  width: 100%;
+  height: 300rpx;
+}
+
+.banners image {
+  width: 100%;
+  height: 100%;
+}
+
+.other {
+  display: flex;
+  width: 100%;
+  height: 150rpx;
+  background-color: white;
+  flex-direction: row;
+}
+
+.other .box {
+  width: 150rpx;
+  background-color: pink;
+  margin: 10rpx 30rpx;
+  border-radius: 50%;
+}
+
+.outer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: white;
+  text-align: center;
+}
+
+.outer image {
+  width: 100%;
+  margin: 10rpx 0;
+}
+
+.what{
+  font-size: 45rpx;
+  background-color: white;
+  height: 80rpx;
+  line-height: 80rpx;
+}
+.what::before{
+  content:'😁';
+}

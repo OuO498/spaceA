@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/cart/cart",
+    "pages/user/user",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#576b95",
+    "navigationBarTitleText": "热情的土豆丝",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "icon/home-1.png",
+        "selectedIconPath": "icon/home-2.png"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "text": "购物车",
+        "iconPath": "icon/cart-1.png",
+        "selectedIconPath": "icon/cart-2.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "我的",
+        "iconPath": "icon/my-1.png",
+        "selectedIconPath": "icon/my-2.png"
+      }
+    ],
+    "backgroundColor": "#f3f3f3",
+    "color": "#999",
+    "selectedColor": "#576b95"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
