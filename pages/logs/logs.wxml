@@ -1,7 +1,7 @@
 <view class="indexContainer">
   <image class="avatarUrl" src="/images/cat01.jpg"></image>
   <text>Jeni</text>
-  <button bindgetuserinfo='handleGetUserInfo' open-type="getUserInfo">获取用户信息</button>
+  <button open-type="getUserInfo">获取用户信息</button>
   <view class="goUrl" bindtap="toUser">
     <text>登陆</text>
   </view>

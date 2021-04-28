@@ -1,39 +1,37 @@
 <view class="Carousel">
   <swiper class="banners" indicator-dots="true" autoplay="false" interval="2000" duration="500">
     <swiper-item>
-      <image src="/images/NewYear.jpg"></image>
+      <image src="/images/01.jpg"></image>
     </swiper-item>
     <swiper-item>
-      <image src="/images/NewYear.jpg"></image>
+      <image src="/images/02.jpg"></image>
     </swiper-item>
     <swiper-item>
-      <image src="/images/NewYear.jpg"></image>
+      <image src="/images/03.jpg"></image>
     </swiper-item>
   </swiper>
 </view>
 <view class="other">
-  <view class="box"></view>
-  <view class="box"></view>
-  <view class="box"></view>
-  <view class="box"></view>
+  <view class="box">
+    <image src="/images/cake_0.png"></image>
+  </view>
+  <view class="box">
+    <image src="/images/cake_1.png"></image>
+  </view>
+  <view class="box">
+    <image src="/images/cake_2.png"></image>
+  </view>
+  <view class="box">
+    <image src="/images/cake_3.png"></image>
+  </view>
 </view>
-<view class="what"><text>随便写写</text></view>
+<view class="what"><text>热门排行</text></view>
 
 <view class="outer">
   <view class="pictrue">
-    <image src="/images/NewYear.jpg"></image>
-    <text>随便写写</text>
+    <image src="/images/04.jpg"></image>
+    <text>西瓜</text>
   </view>
-  <view class="pictrue">
-    <image src="/images/NewYear.jpg"></image>
-    <text>随便写写</text>
-  </view>
-  <view class="pictrue">
-    <image src="/images/NewYear.jpg"></image>
-    <text>随便写写</text>
-  </view>
-  <view class="pictrue">
-    <image src="/images/NewYear.jpg"></image>
-    <text>随便写写</text>
-  </view>
+
+
 </view>
